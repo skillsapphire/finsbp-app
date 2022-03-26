@@ -12,7 +12,7 @@ def random_with_N_digits(n):
 
 def generateTnxXml():
     fileName = "Final_Excel_Format_Bank_V1"
-    path = fileName+".XLSX"
+    path = "./"+fileName+".XLSX"
     wb = load_workbook(path, data_only=True)
     ws = wb.active
 
