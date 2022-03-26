@@ -1,0 +1,19 @@
+Heroku Deploy
+https://www.youtube.com/watch?v=LwY4yC8AesQ
+Hello world
+https://www.youtube.com/watch?v=hEJZpA1bhoU
+File upload
+https://www.youtube.com/watch?v=BNBjJ5AvTG0&feature=youtu.be
+
+File upload download via DB
+https://www.youtube.com/watch?v=pPSZpCVRbvQ&feature=youtu.be
+
+Get start flask
+https://www.youtube.com/watch?v=mqhxxeeTbu0
+
+Flask with html template
+https://www.youtube.com/watch?v=xIgPMguqyws
+
+Flask CRUD
+https://www.youtube.com/watch?v=z3109C_xDP8&feature=youtu.be
+
